@@ -1,0 +1,12 @@
+- build: alterações que afetam o sistema de build ou dependências externas
+- ci: alterações nos arquivos de configuração e scripts do nosso CI
+- chore: outras alterações que não modificam arquivos src ou test
+- docs: alterações na documentação apenas
+- feat: uma nova funcionalidade
+- fix: correção de um bug
+- perf: uma alteração de código que melhora o desempenho
+- refactor: uma alteração de código que não corrige um bug nem adiciona uma funcionalidade
+- revert: reverte um commit anterior
+- style: alteração que não afeta o significado do código
+- test: adição de testes faltantes ou correção de testes existentes
+- improvement: uma melhoria em uma funcionalidade atual
